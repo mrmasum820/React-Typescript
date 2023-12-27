@@ -1,23 +1,23 @@
-## Basic props & Advance props(union types)
+### 1. Basic props & Advance props(union types)
 
-## Event & Styles
+### 2. Event & Styles
 
-## useState(type Assertion) & useReducer(discriminated union)
+### 3. useState(type Assertion) & useReducer(discriminated union)
 
-## useContext + useRef
+### 4. useContext + useRef
 
-## class components
+### 5. class components
 
-## componenent as props
+### 6. componenent as props
 
-## Generics
+### 7. Generics
 
-## Restricting Props
+### 8. Restricting Props
 
-## Template literals & Exclue
+### 9. Template literals & Exclue
 
-## Wrapping Html & Omit
+### 10. Wrapping Html & Omit
 
-## Extracting component prop types
+### 11. Extracting component prop types
 
-## Polymorphic components
+### 12. Polymorphic components
